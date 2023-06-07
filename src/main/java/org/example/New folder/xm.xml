@@ -1,0 +1,21 @@
+<ConsolidatedAPP>
+<ConsolidatedAPP>
+<ConsolidatedAPP>
+
+<parameters>
+    <replaceBeforeCode>NO</replaceBeforeCode>
+    <previousEnvironment>
+        <AL03>YES</AL03>
+        <Al51>YES</Al51>
+        <AL81>NO</AL81>
+    </previousEnvironment>
+    <currentEnvironment>
+        <AL03>YES</AL03>
+        <Al51>YES</Al51>
+        <AL81>NO</AL81>
+    </currentEnvironment>
+</parameters>
+
+</ConsolidatedAPP>
+</ConsolidatedAPP>
+</ConsolidatedAPP>

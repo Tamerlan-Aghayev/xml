@@ -1,0 +1,31 @@
+<ConsolidatedAPP>
+<library>
+  <book>
+    <author>J.D. Salinger</author>
+    <genre>Coming-of-age</genre>
+    <publication_year>1951</publication_year>
+  </book>
+  <book>
+    <title>To Kill a Mockingbird</title>
+    <author>Harper Lee</author>
+    <genre>Fiction</genre>
+    <publication_year>1960</publication_year>
+    <publisher>J. B. Lippincott Co.</publisher>
+  </book>
+  <book>
+    <title>The Lord of the Rings</title>
+    <author>J.R.R. Tolkien</author>
+    <genre>Fantasy</genre>
+    <publication_year>1954</publication_year>
+    <publisher>Allen  Unwin</publisher>
+  </book>
+  <book>
+    <title>Harry Potter and the Philosopher's Stone</title>
+    <author>J.K. Rowling</author>
+    <genre>Fantasy</genre>
+    <publication_year>1997</publication_year>
+    <publisher>Bloomsbury</publisher>
+  </book>
+</library>
+
+</ConsolidatedAPP>
